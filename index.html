@@ -216,9 +216,11 @@ footer{background:#030506;color:#aaa;text-align:center;padding:25px}
 <input id="name" required placeholder="Full Name"><input id="phone" required placeholder="Phone / WhatsApp">
 <input id="email" type="email" placeholder="Email"><input id="pickup" required placeholder="Pickup Location">
 <input id="destination" required placeholder="Destination"><input id="date" type="date" required>
-<input id="time" type="time"><input id="passengers" type="number" min="1" placeholder="Number of Passengers">
-<select id="service"><option>Airport Transfer</option><option>Long-Distance Trip</option><option>Road Trip</option><option>Local & City Ride</option><option>Corporate Travel</option><option>Group Travel</option><option>School Run</option></select>
+<input id="time" type="time" required><input id="passengers" type="number" min="1" required placeholder="Number of Passengers">
+<select id="service" required><option value="" disabled selected>Select Service Required</option><option>Airport Transfer</option><option>Long-Distance Trip</option><option>Road Trip</option><option>Local & City Ride</option><option>Corporate Travel</option><option>Group Travel</option><option>School Run</option></select>
+<select id="payment" class="full" required><option value="" disabled selected>Select Payment Preference</option><option>Pay after booking confirmation</option><option>M-Pesa (after confirmation)</option><option>Card payment (after confirmation)</option></select>
 <textarea id="message" class="full" placeholder="Additional details"></textarea>
+<p class="full" style="margin:0;color:#cbd1d5;font-size:13px;line-height:1.5;">Payment is arranged securely after your booking is confirmed. Never enter your M-Pesa PIN or card details here.</p>
 </div>
 <button class="btn primary submit" type="submit">SEND BOOKING REQUEST</button>
 </form>
