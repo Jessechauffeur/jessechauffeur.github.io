@@ -44,7 +44,7 @@ header{position:sticky;top:0;z-index:30;background:rgba(5,7,8,.96);border-bottom
 .whatsapp{color:#fff;text-decoration:none;font-weight:700}.whatsapp span{color:var(--gold)}
 .hero{min-height:640px;background:linear-gradient(90deg,rgba(0,0,0,.90),rgba(0,0,0,.48)),url("toyota-noah-kdy-487x.jpg") center/cover no-repeat;display:flex;align-items:center}
 .hero-inner{max-width:1200px;width:90%;margin:auto;color:#fff;padding:80px 0}
-.eyebrow{display:inline-block;padding:8px 12px;border:1px solid rgba(255,255,255,.25);border-radius:999px;background:rgba(255,255,255,.06);font-size:.8rem;letter-spacing:.12em;text-transform:uppercase;margin-bottom:20px}
+.eyebrow{display:inline-block;padding:8px 12px;border:1px solid rgba(255,255,255,.25);border-radius:999px;background:rgba(255,255,255,.06);font-size:.8rem;letter-spacing:.12em;text-transform:uppercase}
 .hero h1{font-size:clamp(42px,7vw,88px);margin:0;line-height:.95;color:#fff;letter-spacing:-.05em}
 .hero h2{font-size:clamp(22px,3vw,34px);color:var(--gold);margin:12px 0 18px;line-height:1.1}
 .hero p{font-size:clamp(17px,2vw,25px);line-height:1.5;max-width:760px;margin:0}
@@ -167,7 +167,6 @@ footer{background:#030506;color:#aaa;text-align:center;padding:26px 16px}
     <div style="border:1px solid var(--line);background:#fafafa;border-radius:18px;padding:28px;min-height:240px;display:flex;align-items:center;justify-content:center;">
       <div style="text-align:left;max-width:440px;">
         <h3 style="margin:0 0 10px;font-size:2rem;">Toyota Noah</h3>
-        <p style="margin:0 0 8px;line-height:1.7;"><strong>Registration:</strong> KDY 487X</p>
         <p style="margin:0 0 8px;line-height:1.7;"><strong>Capacity:</strong> 7 seats</p>
         <p style="margin:0;line-height:1.7;"><strong>Best for:</strong> Airport transfers, family moves, city travel and group rides.</p>
       </div>
