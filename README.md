@@ -160,21 +160,6 @@ footer{background:#030506;color:#aaa;text-align:center;padding:26px 16px}
   </div>
 </section>
 
-<section id="fleet">
-  <h2 class="section-title">OUR FEATURED VEHICLE</h2>
-  <p class="section-sub">A clean and spacious option for local transfers, family travel and airport runs.</p>
-  <div class="two-col">
-    <div style="border:1px solid var(--line);background:#fafafa;border-radius:18px;padding:28px;min-height:240px;display:flex;align-items:center;justify-content:center;">
-      <div style="text-align:left;max-width:440px;">
-        <h3 style="margin:0 0 10px;font-size:2rem;">Toyota Noah</h3>
-        <p style="margin:0 0 8px;line-height:1.7;"><strong>Capacity:</strong> 7 seats</p>
-        <p style="margin:0;line-height:1.7;"><strong>Best for:</strong> Airport transfers, family moves, city travel and group rides.</p>
-      </div>
-    </div>
-    <div><img src="toyota-noah-kdy-487x.jpg" alt="Toyota Noah vehicle used by Jesse Private Chauffeur"></div>
-  </div>
-</section>
-
 <section class="dark">
   <div class="two-col">
     <div>
