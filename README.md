@@ -3,8 +3,8 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Jesse Private Chauffeur | Chauffeur & Airport Transfers in Nanyuki, Kenya</title>
-<meta name="description" content="Jesse Private Chauffeur provides reliable chauffeur services in Nanyuki, Kenya, including airport transfers, road trips, corporate travel, local rides and long-distance travel.">
+<title> | Chauffeur & Airport Transfers in Nanyuki, Kenya</title>
+<meta name="description" content= provides reliable chauffeur services in Nanyuki, Kenya, including airport transfers, road trips, corporate travel, local rides and long-distance travel.">
 <meta name="robots" content="index, follow">
 <link rel="canonical" href="https://jessechauffeur.github.io/">
 <meta property="og:type" content="website">
